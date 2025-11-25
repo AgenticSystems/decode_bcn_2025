@@ -17,12 +17,6 @@ Use is optional; teams may combine with their own data sources.
 
 Check the MCP server documentation here: [MCP](MCP.md)
 
-## Access
-1. Request access from a mentor during the event.
-2. Install an MCP-compatible client or SDK (Node, Python).
-3. Point client to server base URL (to be announced).
-4. Start querying endpoints or invoking MCP tools.
-
 ## Guidelines
 - Cache responsibly.
 - Do not attempt to re-identify individuals (data is aggregated).
