@@ -14,7 +14,8 @@ Offer:
 Use is optional; teams may combine with their own data sources.
 
 ## MCP Servers
-TBD
+
+Check the MCP server documentation here: [MCP](MCP.md)
 
 ## Access
 1. Request access from a mentor during the event.
